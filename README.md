@@ -1,4 +1,4 @@
-# 📊 Data Science Portfolio
+## 📊 Data Science Portfolio
 
 Welcome to my **Data Science Portfolio**! This repository showcases my data analysis and machine learning projects.
 
@@ -6,6 +6,9 @@ Welcome to my **Data Science Portfolio**! This repository showcases my data anal
 
 ### 🌍 Machine Learning
 - [Boston Housing Price Analysis](Machine_Learning/boston-housing-analysis/): Predicting house prices using machine learning.
+
+### 📊 Exploratory Data Analysis (EDA)
+- [Analysis](Analysis/): Directory containing various exploratory data analysis files and notebooks.
 
 ## 📚 About Me
 I am passionate about data science and always eager to learn new skills. Connect with me on:
@@ -15,11 +18,3 @@ I am passionate about data science and always eager to learn new skills. Connect
 1. Clone this repository:
    ```bash
    git clone https://github.com/aramidetkd/data-science-portfolio.git
-   ```
-2. Navigate to a project folder:
-   ```bash
-   cd data-science-portfolio/Machine_Learning/boston-housing-analysis
-   ```
-3. Run the analysis (if applicable).
-
-
